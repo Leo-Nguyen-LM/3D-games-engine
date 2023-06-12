@@ -1,0 +1,4 @@
+game_engine\Matrix_Vector_Manipulation\MatrixMultiply.class
+game_engine\Matrix_Vector_Manipulation\transposition.class
+game_engine\Matrix_Vector_Manipulation\Rotation.class
+game_engine\Matrix_Vector_Manipulation\InvalidExpressionException.class
